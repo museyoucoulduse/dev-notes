@@ -297,7 +297,7 @@ A method to configure and launch the root application component.
 
 ---
 
-###Change Detection
+### Change Detection
 
 Learn how Angular decides that a component property value has changed and when to update the screen. Learn how it uses zones to intercept asynchronous activity and run its change detection strategies.
 
@@ -321,7 +321,7 @@ The DOM raises events. So can components and services. Angular offers mechanisms
 
 Support complex data entry scenarios with HTML-based validation and dirty checking.
 
-[View on Angular.io]([View on Angular.io](https://angular.io/docs/ts/latest/guide/router.html)
+[View on Angular.io](https://angular.io/docs/ts/latest/guide/forms.html)
 
 ---
 
